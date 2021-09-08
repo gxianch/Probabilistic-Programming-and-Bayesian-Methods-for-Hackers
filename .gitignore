@@ -3,3 +3,8 @@
 *~
 *.png
 **/.ipynb_checkpoints
+**/target/
+**/.settings/
+**/.idea/
+**/log/
+**/classes/
